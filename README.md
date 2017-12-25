@@ -21,3 +21,7 @@ Just some text.
 ## New Info
 
 More info.
+
+## Copyright
+
+Copyright info.
